@@ -1,5 +1,5 @@
 # **Olá sou Josyannie**
-## Entusiasta da Engenharia de Sofhware
+## Entusiasta da Engenharia de Software
 ## Distante não é incerto
 🐱 
 
