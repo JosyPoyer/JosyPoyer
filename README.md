@@ -1,7 +1,7 @@
 # **Olá sou Josyannie**
 ## Entusiasta da Engenharia de Sofhware
-
-🤓 🐱 
+## Distante não é incerto
+🐱 
 
 <!--
 **JosyPoyer/JosyPoyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
